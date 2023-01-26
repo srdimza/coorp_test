@@ -1,2 +1,5 @@
 #Run the project
-simply type: 'npm start'
+first install npm package:
+'npm install'
+then to run the project type: 
+'npm start'
